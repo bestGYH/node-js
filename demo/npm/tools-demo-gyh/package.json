@@ -1,0 +1,8 @@
+{
+    "name": "tools-demo-gyh",
+    "version": "1.0.0",
+    "main": "index.js",
+    "description": "提供了格式化时间功能",
+    "keywords": ["dateFormat"],
+    "license": "ISC"
+}
